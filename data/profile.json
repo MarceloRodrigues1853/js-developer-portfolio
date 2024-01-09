@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/130669659?v=4",
   "job": "Desenvolvedor Web",
   "location": "Portão - RS",
-  "phone(WhatsApp)": "(51) 98575-1801",
+  "phone": "(51) 98575-1801",
   "email": "marcelo180886@gmail.com",
   "skills": {
     "hardSkills": [
@@ -69,13 +69,48 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto Integrador da trilha Front-End da TALENTO-CLOUD PROZ+AWS",
+      "url": "https://github.com/MarceloRodrigues1853/Projeto_Integrador",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "TalentoCloud Proz+AWS",
+      "url": "https://github.com/MarceloRodrigues1853/TalentoCloud-Proz-AWS",
+      "github": true
+    },
+    {
+      "name": "Projeto Trabalhando com Banco de Dados",
+      "url": "https://github.com/MarceloRodrigues1853/trabalhando-com-bd",
+      "github": true
+    },
+    {
+      "name": "Simulador de Piano",
+      "url": "https://github.com/MarceloRodrigues1853/simulador-piano",
+      "github": true
+    },
+    {
+      "name": "Jogo da Memória com Emojis",
+      "url": "https://github.com/MarceloRodrigues1853/Jogo-da-memoria-com-Emojis",
+      "github": true
+    },
+    {
+      "name": "Projeto Jogo-JS Detona Ralph",
+      "url": "https://github.com/MarceloRodrigues1853/Desafio-Detona-RalphJs",
+      "github": true
+    },
+    {
+      "name": "Trilha de CSS - Projeto de Edição",
+      "url": "https://github.com/MarceloRodrigues1853/trilha-css-desafio-01",
+      "github": true
+    },
+    {
+      "name": "dio-trilha-java-basico",
+      "url": "https://github.com/MarceloRodrigues1853/dio-trilha-java-basico",
+      "github": true
+    },
+    {
+      "name": "Página sobre o Marco Zero - Recife / Proz+AWS",
+      "url": "https://github.com/MarceloRodrigues1853/Pagina-Marco-Zero-Proz-joy",
       "github": true
     }
   ],
