@@ -7,6 +7,9 @@ Este é o meu garfo pessoal do repositório js-developer-portfolio da trilha de 
 - Personalizar o portfólio de acordo com minhas preferências e estilo.
 - Registrar meu progresso e projetos na trilha de formação JavaScript.
 
+## Link para projeto conluído:
+https://js-developer-portfolio-498j9ojoy-marcelo-rodrigues-projects.vercel.app/
+
 ## Sobre a DIO:
 A Digital Innovation One (DIO) oferece uma plataforma de ensino inovadora, proporcionando cursos e trilhas de formação em diversas áreas, incluindo programação, desenvolvimento de software e tecnologia.
 
