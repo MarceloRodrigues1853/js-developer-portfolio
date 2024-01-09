@@ -1,9 +1,9 @@
 {
   "name": "Marcelo S Rodrigues",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/130669659?v=4",
   "job": "Desenvolvedor Web",
   "location": "Portão - RS",
-  "phone": "(51) 98575-1801",
+  "phone(WhatsApp)": "(51) 98575-1801",
   "email": "marcelo180886@gmail.com",
   "skills": {
     "hardSkills": [
@@ -34,7 +34,9 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Orientação de pessoas / Gerir pessoas",
+      "Iniciativa",
+      "Foco no resultado",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -43,8 +45,7 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {

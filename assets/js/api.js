@@ -2,7 +2,7 @@
 async function fetchProfileData() {
   // URL do arquivo JSON contendo dados do perfil
   const url =
-    "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/profile.json";
+    "https://raw.githubusercontent.com/MarceloRodrigues1853/js-developer-portfolio/main/data/profile.json";
 
   // Realiza uma requisição assíncrona para obter os dados do perfil
   const response = await fetch(url);
