@@ -2,19 +2,23 @@
 <html lang="pt-BR">
 
 <head>
+    <!-- Configurações da página -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portifólio Renan J Paula</title>
 
+    <!-- Importação do Normalize.css para normalizar estilos em diferentes navegadores -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
         integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+    <!-- Importação da fonte Open Sans do Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
 
+    <!-- Importação dos estilos personalizados -->
     <link rel="stylesheet" href="assets/css/global.css">
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/acordeon.css">
@@ -26,14 +30,19 @@
 </head>
 
 <body>
+    <!-- Conteúdo principal da página -->
     <main class="main">
+        <!-- Cabeçalho do portfólio -->
         <header class="header">
-            <img src="assets/img/my-photo.png" alt="Foto de Perfil" class="photo" id="profile.photo">
+            <!-- Foto de perfil -->
+            <img src="assets/img/foto-perfil-marcelo.jpg" alt="Foto de Perfil" class="photo" id="profile.photo">
 
+            <!-- Título e saudação personalizada -->
             <h1 class="title">
                 Olá, <br>eu sou <span id="profile.name">Carregando...</span>
             </h1>
 
+            <!-- Informações adicionais do perfil -->
             <div class="information">
                 <p class="job" id="profile.job">Carregando...</p>
                 <p class="location" id="profile.location">Carregando...</p>
@@ -46,12 +55,15 @@
             </div>
         </header>
 
+        <!-- Seção de habilidades (Skills) -->
         <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Skills</h2>
             </button>
 
+            <!-- Conteúdo da seção de habilidades -->
             <div class="content">
+                <!-- Subseções de ferramentas e habilidades pessoais -->
                 <div class="skills">
                     <section class="tools">
                         <h3>Ferramentas:</h3>
@@ -62,6 +74,7 @@
                     <section class="personal">
                         <h3>Pessoal:</h3>
                         <ul id="profile.skills.softSkills">
+                            <!-- Itens das habilidades pessoais -->
                             <li>Carregando...</li>
                             <li>Carregando...</li>
                             <li>Carregando...</li>
@@ -71,47 +84,59 @@
             </div>
         </section>
 
+        <!-- Seção de idiomas -->
         <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Idiomas</h2>
             </button>
 
+            <!-- Conteúdo da seção de idiomas -->
             <div class="content">
+                <!-- Lista de idiomas -->
                 <ul class="languages" id="profile.languages">
                     <li>Carregando...</li>
                 </ul>
             </div>
         </section>
 
+        <!-- Seção de portfólio -->
         <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Portfólio</h2>
             </button>
 
+            <!-- Conteúdo da seção de portfólio -->
             <div class="content">
+                <!-- Lista de projetos no portfólio -->
                 <ul class="portfolio" id="profile.portfolio">
                 </ul>
             </div>
         </section>
 
+        <!-- Seção de experiência profissional -->
         <section class="acordeon">
             <button class="trigger" type="button">
                 <h2>Experiência Profissional</h2>
             </button>
 
+            <!-- Conteúdo da seção de experiência profissional -->
             <div class="content">
+                <!-- Lista de experiências profissionais -->
                 <ul class="experience" id="profile.professionalExperience">
                 </ul>
             </div>
         </section>
 
+        <!-- Rodapé da página -->
         <footer>
-            <a href="https://www.dio.me/" target="_blank">
+            <!-- Link para o perfil na Digital Innovation One -->
+            <a href="https://www.dio.me/users/Marcelo180886" target="_blank">
                 <img src="assets/img/dio.svg" alt="DIO">
             </a>
         </footer>
     </main>
 
+    <!-- Scripts JavaScript -->
     <script src="assets/js/acordeon.js"></script>
     <script src="assets/js/api.js"></script>
     <script src="assets/js/main.js"></script>
